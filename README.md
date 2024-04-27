@@ -6,8 +6,10 @@ A stupid game made in 10 minutes
 **Linux**
 
 > $ python -m ensurepip --upgrade
+
 > $ pip install colorama
 
 **Windows**
 > $ py -m ensurepip --upgrade
+
 > $ pip install colorama
