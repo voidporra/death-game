@@ -3,11 +3,11 @@ A stupid game made in 10 minutes
 
 # You need to install colorama
 
-##Linux
+**Linux**
 
 > $ python -m ensurepip --upgrade
 > $ pip install colorama
 
-##Windows
+**Windows**
 > $ py -m ensurepip --upgrade
 > $ pip install colorama
